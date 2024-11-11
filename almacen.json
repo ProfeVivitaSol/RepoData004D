@@ -1,0 +1,52 @@
+{
+  "mascotas": [
+    {
+      "id": "1",
+      "nombre": "princesa",
+      "tipo": "perro",
+      "color": "cobrizo"
+    },
+    {
+      "id": "2",
+      "nombre": "león",
+      "tipo": "perro",
+      "color": "blanco"
+    },
+    {
+      "id": "7982",
+      "nombre": "Lulu",
+      "tipo": "Perro",
+      "color": "negro"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "isactive": true
+    }
+  ],
+  "qr": [
+    {
+      "id": "17f1",
+      "nomMascota": "león",
+      "tipoMascota": "perro",
+      "username": "usuario1"
+    },
+    {
+      "id": "8749",
+      "nomMascota": "princesa",
+      "tipoMascota": "perro",
+      "username": "usuario1"
+    }
+  ]
+}
